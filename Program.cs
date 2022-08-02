@@ -13,7 +13,8 @@
             //QuotientAndRemainder.CheckQuotientAndRemainder();
             //SwapNumbers.Swapping();
             //EvenOrOdd.CheckEvenOdd();
-            VowelOrConsonant.CheckVowelConsonant();
+            //VowelOrConsonant.CheckVowelConsonant();
+            LargestOfThreeNumbers.Largest();
         }
     }
 }
