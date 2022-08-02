@@ -12,7 +12,8 @@
             //PrimeFactor.FindFactor();
             //QuotientAndRemainder.CheckQuotientAndRemainder();
             //SwapNumbers.Swapping();
-            EvenOrOdd.CheckEvenOdd();
+            //EvenOrOdd.CheckEvenOdd();
+            VowelOrConsonant.CheckVowelConsonant();
         }
     }
 }
