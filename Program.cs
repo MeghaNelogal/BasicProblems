@@ -10,7 +10,8 @@
             //PowerOfTwo.CheckPower();
             //HarmonicNumber.CheckHarmonicNum();
             //PrimeFactor.FindFactor();
-            QuotientAndRemainder.CheckQuotientAndRemainder();
+            //QuotientAndRemainder.CheckQuotientAndRemainder();
+            SwapNumbers.Swapping();
         }
     }
 }
