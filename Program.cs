@@ -9,7 +9,8 @@
             //LeapYear.CheckLeapYear();
             //PowerOfTwo.CheckPower();
             //HarmonicNumber.CheckHarmonicNum();
-            PrimeFactor.FindFactor();
+            //PrimeFactor.FindFactor();
+            QuotientAndRemainder.CheckQuotientAndRemainder();
         }
     }
 }
