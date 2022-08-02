@@ -7,7 +7,8 @@
             Console.WriteLine("***Welome To Basic Core Programs***");
             //FlipCoin.CheckFlip();
             //LeapYear.CheckLeapYear();
-            PowerOfTwo.CheckPower();
+            //PowerOfTwo.CheckPower();
+            HarmonicNumber.CheckHarmonicNum();
         }
     }
 }
