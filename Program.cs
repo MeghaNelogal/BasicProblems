@@ -8,7 +8,8 @@
             //FlipCoin.CheckFlip();
             //LeapYear.CheckLeapYear();
             //PowerOfTwo.CheckPower();
-            HarmonicNumber.CheckHarmonicNum();
+            //HarmonicNumber.CheckHarmonicNum();
+            PrimeFactor.FindFactor();
         }
     }
 }
