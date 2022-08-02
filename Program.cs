@@ -11,7 +11,8 @@
             //HarmonicNumber.CheckHarmonicNum();
             //PrimeFactor.FindFactor();
             //QuotientAndRemainder.CheckQuotientAndRemainder();
-            SwapNumbers.Swapping();
+            //SwapNumbers.Swapping();
+            EvenOrOdd.CheckEvenOdd();
         }
     }
 }
